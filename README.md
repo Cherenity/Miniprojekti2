@@ -13,5 +13,4 @@ Projektiharjoituksen tehtävänanto ja käytettävät menetelmät:
 • Datan analysointi Power BI:llä 
 • Jos aikaa jää ja näyttäisi olevan jotain ennustettavaa, niin ennustemallin teko 
 
-Miettikää ryhmässä mikä aihealue olisi kiinnostava analysoinnin kohde ja löytyykö siihen sopivia datalähteitä.  
-*Canvaksessa on muutamia linkkejä, joista löytyy paljon datalähteitä.*
+*Miettikää ryhmässä mikä aihealue olisi kiinnostava analysoinnin kohde ja löytyykö siihen sopivia datalähteitä.*
